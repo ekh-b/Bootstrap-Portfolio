@@ -10,8 +10,6 @@
 
 
 
-this site will be updated with projects or assignments I want to showcase.
-
 
 ## Installation
 
